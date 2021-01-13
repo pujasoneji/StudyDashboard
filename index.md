@@ -25,7 +25,9 @@ Syntax highlighted code block
 
 [Link](https://i.scdn.co/image/ab67616d00001e026680d3f6fd5f70ef3f71288a) and ![Image](https://i.scdn.co/image/ab67616d00001e026680d3f6fd5f70ef3f71288a)
 ```
-<iframe src="https://open.spotify.com/embed/playlist/0DF5wQp7s0bn5ZPmTy35Jq" width="640" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/0DF5wQp7s0bn5ZPmTy35Jq" width="640" height="150" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0cDQyfkR7kYIBITKccaDmN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-iotdatacollection-krxgk/embed/charts?id=9f1a6b1b-670c-4cb9-bb90-95a50a84df97&autoRefresh=300&theme=light"></iframe>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
