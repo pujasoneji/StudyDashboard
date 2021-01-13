@@ -29,7 +29,18 @@ Syntax highlighted code block
 
 
 <iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-iotdatacollection-krxgk/embed/charts?id=9f1a6b1b-670c-4cb9-bb90-95a50a84df97&autoRefresh=300&theme=light"></iframe>
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+<iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-iotdatacollection-krxgk/embed/charts?id=19a4dde0-34f2-4a50-952d-88c4e3f91c5f&theme=light"></iframe>
+
+<iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-iotdatacollection-krxgk/embed/charts?id=8a599ef3-3c79-41c5-a18e-d3a69d774b71&theme=light"></iframe>
+
+<iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-iotdatacollection-krxgk/embed/charts?id=5b53387a-ad20-4b2c-9bdf-222d8e23920d&theme=light"></iframe>
+
+<iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-iotdatacollection-krxgk/embed/charts?id=85c9e09b-7cec-4789-94dc-d363583bf382&theme=light"></iframe>
+
+<iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-iotdatacollection-krxgk/embed/charts?id=e667345f-b36c-4bcc-8198-fc6b55678b99&theme=light"></iframe>
+
+
 
 ### Jekyll Themes
 
