@@ -4,7 +4,7 @@
 
 <iframe src="https://open.spotify.com/embed/playlist/0DF5wQp7s0bn5ZPmTy35Jq" width="640" height="180" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-
+<SPACER TYPE=HORIZONTAL SIZE=50>
 ## Your data over the past week
 
 Let's have a look at your data. First how long were you working in the week?
