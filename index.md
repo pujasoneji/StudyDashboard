@@ -1,8 +1,8 @@
 ## Welcome to your study Dashboard!
 
-###You've been listening to:
+### You've been listening to:
 
-<iframe src="https://open.spotify.com/embed/playlist/0DF5wQp7s0bn5ZPmTy35Jq" width="640" height="200" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/0DF5wQp7s0bn5ZPmTy35Jq" width="640" height="180" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 
