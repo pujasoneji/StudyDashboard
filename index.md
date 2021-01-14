@@ -22,3 +22,5 @@ This graph shows how you typically tend to distribute you working hours in the d
 
 
 <iframe style="background: #FFFFFF;border: none;border-radius: 2px;box-shadow: 0 2px 10px 0 rgba(70, 76, 79, .2);" width="640" height="480" src="https://charts.mongodb.com/charts-iotdatacollection-krxgk/embed/charts?id=795a3017-e054-4e7e-8d93-2aaaa8509431&theme=light"></iframe>
+
+Zoom in to see how temperature and cloud cover have an effect on studying
